@@ -1,0 +1,10 @@
+.game-board-row:after {
+    clear: both;
+    content: "";
+    display: table;
+  }
+
+  .game-board-importantSquare {
+      color: #c22;
+      background-color: #222;
+  }
